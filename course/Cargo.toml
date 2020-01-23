@@ -7,7 +7,7 @@ license = "MIT/Apache-2.0"
 description = "sample library for understanding rust course"
 homepage = "https://github.com/majidIOTB3Islamabd/course"
 repository = "https://github.com/majidIOTB3Islamabd/course"
-readme = "Readme.md"
+readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
