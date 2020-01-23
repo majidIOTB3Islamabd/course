@@ -1,9 +1,13 @@
 [package]
 name = "course"
 version = "0.1.0"
-authors = ["MajidKhanqau <majidkhanqau@gmail.com>"]
+authors = ["MajidKhan <mfmkpk1@gmail.com>"]
 edition = "2018"
-
+license = "MIT/Apache-2.0"
+description = "sample library for understanding rust course"
+homepage = "https://github.com/majidIOTB3Islamabd/course"
+repository = "https://github.com/majidIOTB3Islamabd/course"
+readme = "Readme.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
